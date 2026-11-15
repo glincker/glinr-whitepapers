@@ -39,7 +39,7 @@ ${badges}
 | | |
 | --- | --- |
 | Report | ${m.id}, version ${m.version} (${m.status}) |
-| Paper (PDF) | [`paper/${m.id}.pdf`](${a.repo}/blob/v${m.version}/paper/${m.id}.pdf) in this repository, also a [release asset](${pdf}) |
+| Paper (PDF) | [paper/${m.id}.pdf](${a.repo}/blob/v${m.version}/paper/${m.id}.pdf) in this repository, also a [release asset](${pdf}) |
 | Paper page | [${m.url.replace("https://", "")}](${m.url}) |
 | DOI | ${doi ? `[${doi}](https://doi.org/${doi}) (always resolves to the latest version)` : "pending"} |
 | Author | [${m.author.name}](${m.author.url}), [ORCID](${orcid}) |
