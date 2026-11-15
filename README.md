@@ -10,7 +10,7 @@ One index for every GLINR Studios whitepaper: the PDF, its DOI and the repositor
 | --- | --- | --- | --- | --- | --- |
 | GLINR-WP-2026-101 | Restore Is the Product | 0.1.5 (draft) | [PDF](https://github.com/glincker/wp-2026-101-backup-restore-testing/releases/download/v0.1.5/GLINR-WP-2026-101-v0.1.5.pdf) | [DOI](https://doi.org/10.5281/zenodo.24238984) | [v0.1.5](https://github.com/glincker/wp-2026-101-backup-restore-testing) |
 | GLINR-WP-2026-301 | DNS in Production | 0.1.4 (draft) | [PDF](https://github.com/glincker/wp-2026-301-dns-failover-ttl-testing/releases/download/v0.1.4/GLINR-WP-2026-301-v0.1.4.pdf) | [DOI](https://doi.org/10.5281/zenodo.24238986) | [v0.1.4](https://github.com/glincker/wp-2026-301-dns-failover-ttl-testing) |
-| GLINR-WP-2026-501 | Zero-Downtime Migrations, Tested | 0.1.0 (draft) | pending | pending | [repo](https://github.com/glincker/wp-2026-501-zero-downtime-migrations-testing) |
+| GLINR-WP-2026-501 | Zero-Downtime Migrations, Tested | 0.1.0 (draft) | [PDF](https://github.com/glincker/wp-2026-501-zero-downtime-migrations-testing/releases/download/v0.1.0/GLINR-WP-2026-501-v0.1.0.pdf) | pending | [v0.1.0](https://github.com/glincker/wp-2026-501-zero-downtime-migrations-testing) |
 
 Reports are independent technical write-ups, not externally reviewed unless a paper says otherwise. Each evidence repository is tagged per paper version.
 
