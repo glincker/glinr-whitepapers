@@ -1,0 +1,47 @@
+[
+  {
+    "id": "GLINR-WP-2026-101",
+    "title": "Restore Is the Product",
+    "subtitle": "Backups you can prove: measuring RPO and RTO, mapping threats to surviving copies, and testing restores before you need them",
+    "version": "0.1.1",
+    "status": "draft",
+    "date": "2026-11-11",
+    "url": "https://glinr.com/wp/2026-101",
+    "repo": "https://github.com/glincker/wp-2026-101-backup-restore-testing",
+    "tag": "v0.1.1",
+    "doi": null,
+    "pdf": "https://github.com/glincker/wp-2026-101-backup-restore-testing/releases/download/v0.1.1/GLINR-WP-2026-101-v0.1.1.pdf",
+    "license": "CC BY 4.0",
+    "review": "none"
+  },
+  {
+    "id": "GLINR-WP-2026-301",
+    "title": "DNS in Production",
+    "subtitle": "TTLs, failover and failure modes, measured in two resolvers and four client runtimes",
+    "version": "0.1.0",
+    "status": "draft",
+    "date": "2026-11-11",
+    "url": "https://glinr.com/wp/2026-301",
+    "repo": "https://github.com/glincker/wp-2026-301-dns-failover-ttl-testing",
+    "tag": "v0.1.0",
+    "doi": null,
+    "pdf": "https://github.com/glincker/wp-2026-301-dns-failover-ttl-testing/releases/download/v0.1.0/GLINR-WP-2026-301-v0.1.0.pdf",
+    "license": "CC BY 4.0",
+    "review": "none"
+  },
+  {
+    "id": "GLINR-WP-2026-501",
+    "title": "Zero-Downtime Migrations, Tested",
+    "subtitle": "Lock queues, expand and contract and rolling restarts, measured on Postgres 16 and 17 and nginx",
+    "version": "0.1.0",
+    "status": "draft",
+    "date": "2026-11-11",
+    "url": "https://glinr.com/wp/2026-501",
+    "repo": "https://github.com/glincker/wp-2026-501-zero-downtime-migrations-testing",
+    "tag": null,
+    "doi": null,
+    "pdf": null,
+    "license": "CC BY 4.0",
+    "review": "none"
+  }
+]
